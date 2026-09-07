@@ -6,12 +6,14 @@ Sidequest should be intentionally cheap to produce. The idea and writing are the
 
 1. Find a strong, relevant idea.
 2. Research the topic deeply enough to avoid vague self-help commentary.
-3. Build a clear causal spine with but/therefore progression.
-4. Write a concise, human script.
-5. Record narration.
-6. Place calm Minecraft gameplay underneath as the visual bed.
-7. Add only essential editorial graphics.
-8. Publish quickly and learn from topic/packaging performance.
+3. Decide what Matyi would actually tell a friend after doing the research.
+4. Build a clear hidden causal spine with but/therefore progression and a viewer-question chain.
+5. Write the script using [`SIDEQUEST_SCRIPTWRITING_SKILL.md`](SIDEQUEST_SCRIPTWRITING_SKILL.md): casual, first-person where useful, conversational, slightly imperfect, with natural filler or mild swearing only when it fits.
+6. Read the script aloud and replace wording that would not come out naturally in conversation.
+7. Record narration.
+8. Place calm Minecraft gameplay underneath as the visual bed.
+9. Add only essential editorial graphics.
+10. Publish quickly and learn from topic/packaging performance.
 
 ## Visual rules
 
@@ -54,3 +56,5 @@ Approximate priority order:
 5. Editing
 
 Minimal editing cannot mean minimal thinking.
+
+The script should work even if the viewer only hears the audio. The Minecraft footage supports the experience; it should never be required to make weak writing engaging.
