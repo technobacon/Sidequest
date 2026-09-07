@@ -34,6 +34,55 @@ Use for Sidequest:
 - Format validation.
 - Packaging ideas around autonomy, money, work, and the default life path.
 
+### WuckaSpeaks
+User-identified direct competitor.
+
+Watch for:
+- New uploads with unusually high early view velocity.
+- Repeatable title structures and topic clusters.
+- How personal commentary is packaged without heavy production.
+- Topics that overlap Sidequest's money, work, wellbeing, or life-advice audience.
+
+Use for Sidequest:
+- Treat as a direct trend source in every competitor scan.
+- Compare breakout performance against the channel's own baseline rather than raw views alone.
+
+### niko
+User-identified direct competitor.
+
+Watch for:
+- Breakout topics, recurring audience concerns, and unusually strong title/thumbnail combinations.
+- Which broad life-advice subjects attract views beyond the channel's normal audience.
+- Any low-edit formats that keep attention primarily through narration and ideas.
+
+Use for Sidequest:
+- Treat as a direct trend source in every competitor scan.
+- Look for adjacent ideas that can be researched and reframed rather than copied.
+
+### MonomoTime
+User-identified direct competitor.
+
+Watch for:
+- New topics gaining traction quickly.
+- Repeated themes around modern life, self-improvement, money, work, or wellbeing.
+- Packaging choices that turn broad personal issues into specific clickable arguments.
+
+Use for Sidequest:
+- Treat as a direct trend source in every competitor scan.
+- Track strong outliers relative to normal channel performance.
+
+### KellsterNow
+User-identified direct competitor.
+
+Watch for:
+- Outlier uploads in the first 24–72 hours.
+- Topics that appear across other Sidequest-adjacent channels at the same time.
+- Personal-opinion angles that can be strengthened with research or a clearer causal structure.
+
+Use for Sidequest:
+- Treat as a direct trend source in every competitor scan.
+- Use as a signal for emerging audience interests, not as a template to copy.
+
 ### Better Ideas
 Why follow:
 - Strongest large-channel signal for broad self-improvement and life-strategy packaging.
@@ -216,17 +265,21 @@ When doing a fast scan, check in this order:
 
 1. Damon Cassidy
 2. Early Exit
-3. Better Ideas
-4. HealthyGamerGG
-5. The Financial Diet
-6. Nate O'Brien
-7. struthless
-8. Matt D'Avella
-9. Nathaniel Drew / No Backup Plan
-10. Ali Abdaal
-11. Shelby Church
-12. Reddit + broader YouTube search for confirmation
-13. News / studies for factual grounding
+3. WuckaSpeaks
+4. niko
+5. MonomoTime
+6. KellsterNow
+7. Better Ideas
+8. HealthyGamerGG
+9. The Financial Diet
+10. Nate O'Brien
+11. struthless
+12. Matt D'Avella
+13. Nathaniel Drew / No Backup Plan
+14. Ali Abdaal
+15. Shelby Church
+16. Reddit + broader YouTube search for confirmation
+17. News / studies for factual grounding
 
 ## Core topic clusters to keep watching
 
