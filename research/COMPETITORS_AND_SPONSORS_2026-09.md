@@ -36,6 +36,25 @@ Research date: 2026-09-07
 - Current/recent sponsor example: Betterment.
 - Strong topic overlap with Sidequest: consumerism, middle class, marriage economics, retirement, influencer economy, quality/cheapness.
 
+## Additional direct competitors to track
+
+These were identified directly as relevant Sidequest competitors and should be included in future competitor and trend scans:
+
+- **WuckaSpeaks**
+- **niko**
+- **MonomoTime**
+- **KellsterNow**
+
+Treat these as direct competitive signals alongside Damon Cassidy and Early Exit. For each, track:
+- new uploads and first 24–72 hour view velocity
+- breakout videos relative to the channel's own baseline
+- repeated themes and audience pain points
+- title/thumbnail patterns
+- topic overlap with money, work, wellbeing, self-improvement, and modern-life advice
+- sponsor integrations when visible
+
+Do not assume their strongest topics remain static; re-research their current catalogues during future scans.
+
 ## Large adjacent competitors
 
 ### HealthyGamerGG
@@ -104,6 +123,7 @@ The strongest initial overlap is:
 - Better Ideas' self-improvement packaging
 - Nate O'Brien's calm money/life tone
 - The Financial Diet's everyday-economics framing
+- WuckaSpeaks, niko, MonomoTime, and KellsterNow as additional direct competitor signals supplied for ongoing monitoring
 
 Sidequest can differentiate with calm Minecraft gameplay + vintage newspaper graphics + tighter research + less guru certainty.
 
