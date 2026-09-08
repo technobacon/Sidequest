@@ -4,7 +4,7 @@
 
 This is the default writing standard for Sidequest Notes.
 
-Sidequest Notes is not a polished video-essay narrator talking at an audience. It should feel like Matyi has been thinking about something for a while, has finally figured out what he thinks about it, and is now explaining it to a friend while Minecraft happens in the background.
+Sidequest Notes should feel like Matyi found something interesting, looked into it, and wants to talk about it with viewers as friends while Minecraft happens in the background. The energy is curiosity and sharing a discovery: concrete information, personal reactions, and a clear direction, delivered calmly. Do not fabricate personal experiences or discoveries to create this feeling.
 
 The script is still researched and deliberately structured. The structure should be mostly invisible.
 
@@ -219,74 +219,46 @@ Prefer shared framing:
 
 ---
 
-# 8. Start With the Thought, Not a YouTube Hook
+# 8. Hook, Then Topic, Stakes and End Goal
 
-Do not open Sidequest videos with generic YouTube hook language.
+Open with a short, natural hook: an interesting fact, concrete situation, contradiction or question that gives the viewer a reason to listen. Start where a conversation would become interesting. Avoid generic openings such as "In today's video," "Have you ever wondered," or "What if I told you."
 
-Avoid:
+Immediately after the hook, introduce:
 
-- "In today's video..."
-- "Have you ever wondered..."
-- "This might change the way you think about..."
-- "What if I told you..."
-- "But here's the crazy part..."
+- **Topic:** What exactly are we talking about?
+- **Stakes:** Why does this matter? What concrete consequence makes it relevant to the viewer or the people involved?
+- **End goal:** What specific question will the video answer, or what will the viewer understand by the end?
 
-Start where a conversation would naturally become interesting.
+Work these into a brief conversational setup. They do not need separate sentences or spoken labels. Make the destination clear without reciting an agenda, promising a life-changing revelation, or withholding a basic answer for suspense.
 
-Example:
-
-> I don't actually think I want a successful career.
->
-> Which is a slightly weird thing to admit, because I've spent basically my entire adult life trying to build one.
-
-Or:
-
-> I think we've made having a hobby weirdly stressful.
->
-> You can't just run anymore. You need Strava, a Garmin, a training plan, zone two, a personal best and apparently a small laboratory on your wrist.
-
-The opening should still create a question or contradiction. It just should not feel like a hook template.
+The end goal is the viewer's payoff. It can be an explanation of how something happened; it does not have to be advice or a solution.
 
 ---
 
-# 9. Hide the Structure
+# 9. Intention, Obstacle and Hidden But/Therefore Loops
 
-Use strong causal structure underneath the script:
+Before drafting, identify the story's intention and obstacle:
 
-- BUT
-- THEREFORE
-- BECAUSE
-- EXCEPT
-- WHICH MEANS
-- SO
+- **Intention:** Who wants to achieve what? Give the story a specific direction.
+- **Obstacle:** What real constraint, competing incentive, event or contradiction gets in the way?
 
-But the viewer should not hear a screenplay formula.
+For a story about people or organisations, use their supported goals and actual obstacles. For an explanatory video, the intention can be to understand a specific puzzle, and the obstacle can be evidence that the obvious explanation cannot account for. Do not invent a protagonist, motive, conflict or villain to satisfy the structure.
 
-Planning example:
+Distinguish the story's intention from the video's end goal: a person may want their first job, while the video's goal is to explain why getting that first job has become difficult.
 
-I wanted career success.
+Build the body through causal loops:
 
-BUT
+**Intention → BUT an obstacle interferes → THEREFORE a response or consequence follows → BUT that creates or reveals another complication → THEREFORE the story advances.**
 
-The rewards I associated with success were mostly more money and status.
+Each major beat should change the situation or the viewer's understanding. A BUT must introduce a meaningful complication. A THEREFORE must follow logically from what came before. Facts support these connections; inserting transition words cannot create causation.
 
-BUT
+Use these loops flexibly. Context and examples can sit inside a beat. Do not force a reversal into every paragraph, imply causation from correlation, or stretch the evidence to manufacture a neat story.
 
-More money stopped changing my day-to-day life as much as I expected.
+The outline can explicitly label intention, obstacle, BUT and THEREFORE. The narration should sound like Matyi explaining something interesting to friends. Use ordinary connective language such as "but," "so," "because," "which meant," and "the problem was" when it fits naturally.
 
-THEREFORE
+Move forward. Return to an earlier point only when new evidence changes its meaning. Cut repeated thesis statements, tangents and section-ending lessons.
 
-The thing worth optimizing may not actually be career status.
-
-BUT
-
-Completely opting out has obvious costs too.
-
-THEREFORE
-
-The real question becomes what "enough" career looks like.
-
-The final narration should sound like a conversation flowing naturally through those thoughts.
+Finish by delivering the end goal established after the hook. Explain what happened to the intention and obstacle, or how the evidence resolves the central question. If something remains unresolved, say exactly what and why.
 
 ---
 
@@ -533,7 +505,7 @@ Example:
 >
 > And, honestly, I think that's probably enough ambition for me.
 
-The ending can be slightly unresolved.
+The ending must deliver the specific understanding promised after the hook. It can acknowledge unresolved aspects of the real situation, but must not leave the central question unanswered merely to sound thoughtful.
 
 Sidequest is "Figuring out life, I guess," not "I figured out life and here are the seven steps."
 
@@ -557,9 +529,9 @@ This becomes the real thesis.
 
 ## Pass 3 — Build the hidden causal spine
 
-Outline with BUT / THEREFORE / BECAUSE / EXCEPT / SO.
+Write a short planning card: hook, topic, stakes, end goal, story intention, and obstacle. Then outline the major beats using BUT / THEREFORE / BECAUSE / EXCEPT / SO, with evidence supporting the connections. Plan an ending that delivers the promised end goal.
 
-Do not worry about voice yet.
+Check that each complication and consequence advances the same story. Do not worry about voice yet.
 
 ## Pass 4 — Build the viewer-question chain
 
@@ -573,7 +545,7 @@ For every beat:
 
 Pretend one friend asked:
 
-> "So what do you actually think about this?"
+> "What did you find? Why is that happening?"
 
 Answer them.
 
@@ -641,6 +613,11 @@ Before approving a script, ask:
 10. Does the script avoid telling the viewer how profound its own ideas are?
 11. Does it avoid guru advice and fake certainty?
 12. Would this still sound good if all visuals disappeared and it were just an audio conversation?
+13. Does the hook lead promptly into the topic, concrete stakes and a clear end goal?
+14. Does the story have a specific intention and a real obstacle?
+15. Do the major beats connect through supported complications and consequences, rather than a list of related facts?
+16. Does the ending deliver the promised understanding?
+17. Does this feel like sharing an interesting discovery with friends, without forced drama or philosophical filler?
 
 If it sounds like an article, rewrite it.
 
